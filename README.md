@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to xhlgogo blog
+这是一基于github的个人博客网站，用于推介个人中文/英文查重网站，初次体验请多指教。
+
+### [中文本硕博毕业论文查重经验贴](https://blog.nowcoder.net/n/f8f1546a50b74aa48904505c1522cea0)
+中文硕士查重经验，从知网、万方、维普到大雅，基于个人毕业论文查重经验，[推荐网站](http://xuezhangbang.celunwen.com/)
+
+### [Turnitin英文论文查重推荐](https://blog.nowcoder.net/n/afa84e56637c494d8cea835cecad0a91)
+英文论文查重，通过搜索引擎搜到的Turnitin查重网站普遍利润较高，高利润一部分用于维持广告排名，这里有[安全、准确、实惠的哟](http://xuezhangbang.celunwen.com/turnitin/).
+
 
 You can use the [editor on GitHub](https://github.com/xhlgogo/xhlgogo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
