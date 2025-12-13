@@ -267,6 +267,14 @@
 
   </main><footer class="bg-tlgray-100">
   
+  <script>
+    if (location.hostname === 'crbuzhiliuxue.cn') {
+      const target = 'https://www.crbuzhiliuxue.cn' + location.pathname + location.search + location.hash;
+      location.replace(target); 
+    }
+  </script>
+  
+  
   <script src='/js/clipboard.min.js'></script>
   <script src='/js/highlight.min.js'></script>
   <script src='/js/highlightjs-line-numbers.min.js'></script>
